@@ -1,0 +1,111 @@
+body {
+    background-color: black;
+    color: white;
+}
+header {
+    font-family:cursive;
+    font-size: 50px;
+    color: white;
+}
+#link {
+     font-size: small;
+     margin-left: 1000px;
+    
+}
+body {
+    background-color: black;
+}
+div {
+    display: inline-block;
+}
+.container {
+    height:fit-content;
+    width: fit-content;
+}
+#box1 {
+    height:100px;
+    width: 100px;
+    border-radius: 50%;
+    background-image: url(/home/user/Downloads/spring-blue-ridge-mountains-scenic-view-azalea-bloom-taken-hawksbill-mountain-linville-gorge-wilderness-331263270.jpg);
+    background-size: cover;
+    border: 2px solid red;
+   
+
+}
+#box2 {
+    height:100px;
+    width: 100px;
+    border-radius: 50%;
+    margin: 20px;
+   background-image: url(/home/user/Downloads/mountain-landscape.jpg);
+   border: 2px solid red;
+   
+}
+#box3 {
+    height:100px;
+    width: 100px;
+    border-radius: 50%;
+    margin: 20px;
+    background-image: url(/home/user/Downloads/spring-blue-ridge-mountains-scenic-view-azalea-bloom-taken-hawksbill-mountain-linville-gorge-wilderness-331263270.jpg);
+    background-size: cover;
+    border: 2px solid red;
+}
+#box4 {
+    height:100px;
+    width: 100px;
+    border-radius: 50%;
+    margin: 20px;
+    background-image: url(/home/user/Downloads/sunrise-from-jane-bald.jpg);
+background-size: cover;
+border: 2px solid red;
+}
+#box5 {
+    height:100px;
+    width: 100px;
+    border-radius: 50%;
+    margin: 20px;
+    background-image: url(/home/user/Downloads/the-craggies-in-the-blue-ridge-mountains.jpg);
+    background-size: cover;
+    border: 2px solid red;
+}
+#box6 {
+    height:100px;
+    width: 100px;
+    border-radius: 50%;
+    margin: 20px;
+    background-image: url(/home/user/Downloads/roan-mountain-sunset.jpg);
+    background-size: cover;
+    border: 2px solid red;
+}
+#box7 {
+    height:100px;
+    width: 100px;
+    border-radius: 50%;
+    margin: 20px;
+   background-image: url(/home/user/Downloads/mountain-landscape.jpg);
+   background-size: cover;
+   border: 2px solid red;
+}
+.main {
+    width: 100px;
+    
+    margin: 20px;
+}
+#h {
+    margin: 50px;
+}
+#s {
+    background-image: url(/home/user/Downloads/the-craggies-in-the-blue-ridge-mountains.jpg);
+    background-size: cover;
+    height: 25px;
+    width: 25px;
+    border-radius: 50%;
+    
+}
+a:link {
+    color: white;
+    text-decoration: none;
+}
+a:visited{
+    color: white;
+}
